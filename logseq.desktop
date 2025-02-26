@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Logseq
+Exec=logseq
+Icon=logseq
+Terminal=false
+Type=Application
+Categories=Office;Productivity;
