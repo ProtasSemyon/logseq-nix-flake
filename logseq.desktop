@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=Logseq
-Exec=logseq
+Exec=logseq --enable-features=UseOzonePlatform --ozone-platform=wayland
 Icon=logseq
 Terminal=false
 Type=Application
